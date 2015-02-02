@@ -18,6 +18,8 @@ The topics that will be covered in this video:
 ### JUST FOR FUN
 
 If you'd like to experiment a bit with public pull requests, try this out:
+If you'd like to experiment a bit with public pull requests, try this out:
+If you'd like to experiment a bit with public pull requests, try this out:
 
 1)  Fork the entire project.
 2)  Add your name (or GitHub user account) to this file.
